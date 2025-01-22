@@ -1,2 +1,2 @@
-avz = "eu-central-1c"
-instance_type = "t3.micro"
+avz = "us-east-1a"
+instance_type = "t2.micro"
